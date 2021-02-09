@@ -1,0 +1,22 @@
+div.forma{
+    width: 300px;
+    border:5px solid rgb(25, 25, 90);
+    border-radius: 5px;
+    padding: 20px;
+    background-color: lightblue;
+    margin: 30px auto;
+}
+
+label{
+    display: inline-block;
+    width: 120px;
+}
+
+input, button
+{
+    width: 160px;
+    height: 25px;
+    padding: 2px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
